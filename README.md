@@ -52,6 +52,16 @@ A data science project analysing whether American workers' pay has kept up with 
 - **Worst year:** 2022 — CPI hit 8% while retail workers received ~5% raises, a 3% real wage loss
 - **Risk insight:** Retail and education workers experienced the most years of negative real wage growth, increasing financial stress and vulnerability — directly relevant to consumer credit risk and AML analytics
 
+  ## Charts
+
+![Wage Growth vs Inflation](01_wage_growth_vs_inflation.png)
+![Cumulative Growth](02_cumulative_growth.png)
+![Real Wage by Sector](03_real_wage_by_sector.png)
+![Inflation Crisis 2022](04_inflation_crisis_2022.png)
+![Purchasing Power](05_purchasing_power.png)
+![Heatmap](06_heatmap.png)
+![Sector Scorecard](07_sector_scorecard.png)
+
 ## Tech Stack
 
 - Python 3
