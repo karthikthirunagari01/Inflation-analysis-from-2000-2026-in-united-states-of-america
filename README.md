@@ -1,0 +1,1 @@
+# Inflation-analysis-from-2000-2026-in-united-states-of-america
